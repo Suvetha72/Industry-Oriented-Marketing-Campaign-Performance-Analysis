@@ -122,12 +122,21 @@ Each visualization includes a business question and business insight.
 
 ---
 
+
 ## 🚀 Project Outcome
 
 This project demonstrates the complete workflow of a Data Analyst, from understanding raw data to generating actionable business insights. It showcases practical skills in Python, data visualization, and analytical thinking.
 
 ---
 
+## 🚀 Future Improvements
+Build an interactive dashboard using Power BI or Tableau.
+Develop a machine learning model to predict campaign ROI.
+Automate reporting using Python.
+
+ ---
+
+ 
 ## 👩‍💻 Author
 
 **Suvetha**
